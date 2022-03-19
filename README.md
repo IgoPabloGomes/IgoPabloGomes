@@ -12,3 +12,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgoPabloGomes&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+<div align="center">
+<img align="center" alt="React" height="200" width="200" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
