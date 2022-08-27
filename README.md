@@ -4,7 +4,7 @@
   Apaixonado por Engenharia em seus diversos segmentos
 </h4>
 
-<p align="center"><i>"Sou formado em Engenharia de Produção, iniciante no mundo da tecnologia. Atuei no segmento de vendas durante a maior parte da minha carreira! Hoje busco imlementar a tecnologia dentro das atividades da minha vida com foco na otimização de processos."</i></p>
+<p align="center"><i>"Sou formado em Engenharia de Produção, iniciante no mundo da tecnologia. Atuei no segmento de vendas durante a maior parte da minha carreira! Hoje busco implementar a tecnologia dentro das atividades da minha vida com foco na otimização de processos."</i></p>
 
 <div align="center">
   <a href="https://github.com/IgoPabloGomes">
