@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem vindo, sou <a href="https://www.linkedin.com/in/igo-pablo-4543a080/](https://www.linkedin.com/in/igo-lopes/)"><i>Igo Pablo</i></a> e estou no GitHub para interagir com o universo da tecnologia!!! Fique à vontade para explorar o conteúdo do meu perfil. Juntos somos mais fortes😃️</h3>
+<h1 align="center">Seja bem vindo, sou <a href="https://www.linkedin.com/in/igo-lopes/"><i>Igo Pablo</i></a> e estou no GitHub para interagir com o universo da tecnologia!!! Fique à vontade para explorar o conteúdo do meu perfil. Juntos somos mais fortes😃️</h3>
 
 <h4 align="center"> 
   Apaixonado por Engenharia em seus diversos segmentos
